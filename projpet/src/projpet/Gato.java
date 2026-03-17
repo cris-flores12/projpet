@@ -9,6 +9,18 @@ package projpet;
  *
  * @author crisf
  */
-public class Gato {
+public class Gato extends Animal {
     
+    public Gato(String nome, int idade, Dono dono) {
+        super(nome, idade, dono);
+    }
+
+    @Override
+    public String emitirSom() {
+        return "Miau!";
+    }
+
+    public double calcularBanho() {
+        return 40.0;
+    }
 }

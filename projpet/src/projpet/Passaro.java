@@ -9,6 +9,21 @@ package projpet;
  *
  * @author crisf
  */
-public class Passaro {
+public class Passaro extends Animal {
     
+    public Passaro(String nome, int idade, Dono dono) {
+        super(nome, idade, dono);
+    }
+
+  
+
+  
+    public String emitirSom() {
+        return "Piu Piu!";
+    }
+
+    
+    public double calcularBanho() {
+        return 20.0;
+    }
 }
