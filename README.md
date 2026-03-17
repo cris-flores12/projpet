@@ -1,4 +1,4 @@
-Projeto Pet Shop. Realizado por Cristian Flores e Murilo passos.
+Projeto Pet Shop: Realizado por Cristian Flores e Murilo passos.     
 O intuito do nosso projeto era fazer um menu de uma Pet Shop que permita cadastrar animais,
 clientes (donos dos pets), resgistrar os atendimentos, listar os animais e exibir os atendimentos.
 Enquanto eu estava realizando a classe main, o Murilo estava realizando as classes exigidas 
