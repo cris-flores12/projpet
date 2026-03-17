@@ -25,7 +25,7 @@ A classe base será `Animal`, com subclasses como `Cachorro`, `Gato` e `Passaro`
     3. Registrar atendimento
     4. Listar animais
     5. Exibir atendimentos
-    6. Encerrar
+    6. Encerrar                                                            
 Cristian realizou a classe main,  Murilo estava realizando as classes exigidas 
 e subclasses ultilizando os métodos exigidos.
 Após isso conseguimos fazer este exercício com sucesso e finaliza-lo.
